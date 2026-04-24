@@ -1,1 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <rect width="900" height="620" rx="28" fill="#eef5fb"/>
+  <rect x="60" y="70" width="780" height="480" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="100" y="120" width="180" height="40" rx="12" fill="#0f4c81"/>
+  <text x="190" y="147" text-anchor="middle" font-size="20" font-family="Arial" fill="#ffffff" font-weight="700">CRM Dashboard</text>
 
+  <rect x="100" y="200" width="220" height="120" rx="18" fill="#dbeafe"/>
+  <text x="210" y="245" text-anchor="middle" font-size="26" font-family="Arial" fill="#0f4c81" font-weight="700">128</text>
+  <text x="210" y="278" text-anchor="middle" font-size="18" font-family="Arial" fill="#334155">Заявок</text>
+
+  <rect x="340" y="200" width="220" height="120" rx="18" fill="#dcfce7"/>
+  <text x="450" y="245" text-anchor="middle" font-size="26" font-family="Arial" fill="#166534" font-weight="700">84</text>
+  <text x="450" y="278" text-anchor="middle" font-size="18" font-family="Arial" fill="#334155">Виконано</text>
+
+  <rect x="580" y="200" width="220" height="120" rx="18" fill="#fee2e2"/>
+  <text x="690" y="245" text-anchor="middle" font-size="26" font-family="Arial" fill="#991b1b" font-weight="700">12</text>
+  <text x="690" y="278" text-anchor="middle" font-size="18" font-family="Arial" fill="#334155">У ремонті</text>
+
+  <rect x="100" y="360" width="700" height="130" rx="18" fill="#f8fafc" stroke="#dbe2ea" stroke-width="3"/>
+  <text x="130" y="398" font-size="20" font-family="Arial" fill="#0f172a" font-weight="700">Клієнтські заявки</text>
+  <line x1="130" y1="420" x2="770" y2="420" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="130" y="455" font-size="18" font-family="Arial" fill="#334155">• Діагностика ноутбука</text>
+  <text x="130" y="485" font-size="18" font-family="Arial" fill="#334155">• Заміна дисплея смартфона</text>
+  <text x="430" y="455" font-size="18" font-family="Arial" fill="#334155">• Чистка від пилу</text>
+  <text x="430" y="485" font-size="18" font-family="Arial" fill="#334155">• Перевірка живлення</text>
+</svg>
