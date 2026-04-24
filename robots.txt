@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://github.com/hryak007-arch/bachelor-landing-crm/blob/main/sitemap.xml
