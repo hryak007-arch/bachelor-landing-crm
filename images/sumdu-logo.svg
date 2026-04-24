@@ -1,1 +1,6 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120">
+  <rect width="360" height="120" rx="18" fill="#ffffff"/>
+  <rect x="12" y="12" width="336" height="96" rx="14" fill="#0f4c81"/>
+  <text x="180" y="53" text-anchor="middle" font-size="24" font-family="Arial" fill="#ffffff" font-weight="700">Сумський державний</text>
+  <text x="180" y="84" text-anchor="middle" font-size="24" font-family="Arial" fill="#ffffff" font-weight="700">університет</text>
+</svg>
